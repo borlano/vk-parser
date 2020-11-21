@@ -1,7 +1,7 @@
 {
-    "name": "laravel/laravel",
+    "name": "borlano/vk-parser",
     "type": "project",
-    "description": "The Laravel Framework.",
+    "description": "VK parser.",
     "keywords": [
         "framework",
         "laravel"
@@ -10,20 +10,15 @@
     "require": {
         "php": "^7.4|^8.0",
         "fideloper/proxy": "^4.4",
-        "fruitcake/laravel-cors": "^2.0",
         "guzzlehttp/guzzle": "^7.0.1",
         "laravel/framework": "^8.12",
         "laravel/tinker": "^2.5",
         "laravel/ui": "^3.0",
-        "laravelium/sitemap": "^8.0",
-        "laravelrus/sleepingowl": "8.*",
-        "lorisleiva/laravel-deployer": "^0.3.5"
+        "laravelrus/sleepingowl": "8.*"
     },
     "require-dev": {
-        "barryvdh/laravel-debugbar": "^3.5",
         "barryvdh/laravel-ide-helper": "^2.8",
         "facade/ignition": "^2.5",
-        "fakerphp/faker": "^1.9.1",
         "mockery/mockery": "^1.4.2",
         "nunomaduro/collision": "^5.0",
         "phpunit/phpunit": "^9.3.3"
